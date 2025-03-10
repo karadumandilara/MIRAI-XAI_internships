@@ -6,7 +6,7 @@ This repository contains implementations of SHAP (SHapley Additive Explanations)
 ## Explanation Techniques
 
 ### 1. SHAP (SHapley Additive Explanations)
-SHAP is a unified framework based on cooperative game theory that assigns feature importance scores by considering all possible feature combinations.
+SHAP is an interpretability method based on Shapley values. It quantifies the contribution of each feature to a model’s predictions by fairly distributing the prediction differences among features.
 
 - **Advantages**:
   - Provides global and local interpretability.
