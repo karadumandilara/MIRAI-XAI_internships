@@ -1,8 +1,7 @@
 # Model Interpretability
 
 ## Overview
-This repository contains implementations of SHAP (SHapley Additive Explanations) and LIME (Local Interpretable Model-agnostic Explanations) for model interpretability. These techniques help understand how machine learning models make predictions.
-
+This repository contains implementations of SHAP (SHapley Additive Explanations) and LIME (Local Interpretable Model-agnostic Explanations) for model interpretability.
 ## Explanation Techniques
 
 ### 1. SHAP (SHapley Additive Explanations)
