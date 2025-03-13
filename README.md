@@ -36,4 +36,4 @@ LIME explains individual predictions by perturbing input features and training a
   ```
 
 ## References
-- Interpretable Machine Learning by Christoph Molnar: [Read here](https://christophm.github.io/interpretable-ml-book/preface-by-the-author.html)
+- Interpretable Machine Learning by Christoph Molnar: [Read here](https://christophm.github.io/interpretable-ml-book/)
