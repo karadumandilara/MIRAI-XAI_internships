@@ -1,0 +1,7 @@
+accuracy,balanced_accuracy,precision,recall,f1_score,true_positive,true_negative,false_positive,false_negative,disparate_impact,statistical_parity_difference,equal_opportunity_difference,average_odds_difference,Model,Data_Group
+0.9994833318357444,0.99897440470882,0.9993098481665966,1.0,0.9996548049648051,66606,22380,46,0,0.943622396153321,-0.04315509910464954,0.0,0.0001973792174788429,DisparateImpact/All_Data,all_data
+1.0,1.0,1.0,1.0,1.0,66606,22426,0,0,0.9433396269368522,-0.043346505406050895,0.0,0.0,EqualizedOdds/All_Data,all_data
+1.0,1.0,1.0,1.0,1.0,32379,34228,0,0,0.945937509175977,-0.026825276977148482,0.0,0.0,DisparateImpact/Approved_Loans,approved_loans
+1.0,1.0,1.0,1.0,1.0,32379,34228,0,0,0.945937509175977,-0.026825276977148482,0.0,0.0,EqualizedOdds/Approved_Loans,approved_loans
+1.0,1.0,1.0,1.0,1.0,11199,11227,0,0,0.9680162361353005,-0.01619838409150154,0.0,0.0,DisparateImpact/Denied_Loans,denied_loans
+1.0,1.0,1.0,1.0,1.0,11199,11227,0,0,0.9680162361353005,-0.01619838409150154,0.0,0.0,EqualizedOdds/Denied_Loans,denied_loans

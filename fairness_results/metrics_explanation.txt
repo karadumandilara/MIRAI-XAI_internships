@@ -1,0 +1,18 @@
+disparate_impact: Ratio of favorable outcome rate for unprivileged group to that of privileged group. Ideal value is 1.0.
+
+statistical_parity_difference: Difference in probability of favorable outcome between unprivileged and privileged groups. Ideal value is 0.0.
+
+equal_opportunity_difference: Difference in true positive rates between unprivileged and privileged groups. Ideal value is 0.0.
+
+average_odds_difference: Average of difference in FPR and TPR between unprivileged and privileged groups. Ideal value is 0.0.
+
+accuracy: Fraction of correctly classified instances
+
+balanced_accuracy: Average of true positive rate and true negative rate
+
+precision: Fraction of positive predictions that are correct
+
+recall: Fraction of actual positives correctly identified
+
+f1_score: Harmonic mean of precision and recall
+

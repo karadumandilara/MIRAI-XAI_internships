@@ -1,0 +1,3 @@
+accuracy,balanced_accuracy,precision,recall,f1_score,true_positive,true_negative,false_positive,false_negative,disparate_impact,statistical_parity_difference,equal_opportunity_difference,average_odds_difference,Model
+1.0,1.0,1.0,1.0,1.0,32379,34228,0,0,0.945937509175977,-0.026825276977148482,0.0,0.0,DisparateImpact/Approved_Loans
+1.0,1.0,1.0,1.0,1.0,32379,34228,0,0,0.945937509175977,-0.026825276977148482,0.0,0.0,EqualizedOdds/Approved_Loans

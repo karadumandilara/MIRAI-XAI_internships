@@ -1,0 +1,3 @@
+accuracy,balanced_accuracy,precision,recall,f1_score,true_positive,true_negative,false_positive,false_negative,disparate_impact,statistical_parity_difference,equal_opportunity_difference,average_odds_difference,Model
+1.0,1.0,1.0,1.0,1.0,32379,34228,0,0,0.945937509175977,-0.026825276977148482,0.0,0.0,RandomForest/Approved_Loans
+0.9945501223595118,0.9945029589095606,0.9959722394348742,0.992803977886902,0.9943855850282267,32146,34098,130,233,0.95195453189253,-0.02370919068928584,0.005005546624885171,0.0029093864227901587,LogisticRegression/Approved_Loans

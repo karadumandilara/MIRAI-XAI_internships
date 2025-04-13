@@ -1,0 +1,3 @@
+accuracy,balanced_accuracy,precision,recall,f1_score,true_positive,true_negative,false_positive,false_negative,disparate_impact,statistical_parity_difference,equal_opportunity_difference,average_odds_difference,Model
+1.0,1.0,1.0,1.0,1.0,11199,11227,0,0,0.9680162361353005,-0.01619838409150154,0.0,0.0,RandomForest/Denied_Loans
+0.9947382502452511,0.9947347902337633,0.9974858579509742,0.99196356817573,0.9947170487106016,11109,11199,28,90,0.9746373972688691,-0.012736555391954285,0.004236550862337096,0.0032971047191104946,LogisticRegression/Denied_Loans
